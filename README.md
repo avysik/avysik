@@ -62,6 +62,12 @@ I'm currently deepening my Data Science foundations and will be publishing perso
 | **F1-score 0.87** | NLP | Production-grade text extraction pipeline |
 | **2 shipped projects** | Industry | Both in real enterprise environments, not just notebooks |
 | **1 year @ Lexema** | Professional | End-to-end ownership from research to delivery |
+| **1 project** | Education | [Housing prices](https://github.com/avysik/avysik/tree/ml1) |
+| **2 project** | Education | [](https://github.com/avysik/avysik/tree/ml2) |
+| **3 project** | Education | [](https://github.com/avysik/avysik/tree/ml3) |
+| **4 project** | Education | [](https://github.com/avysik/avysik/tree/ml4) |
+| **5 project** | Education | [](https://github.com/avysik/avysik/tree/ml5) |
+| **6 project** | Education | [](https://github.com/avysik/avysik/tree/ml6) |
 
 </div>
 
@@ -81,9 +87,9 @@ I'm currently deepening my Data Science foundations and will be publishing perso
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avysikww2/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/avysikww2)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soranosf@gmail.com)
 
 </div>
 
